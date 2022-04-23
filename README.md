@@ -33,3 +33,16 @@ de um usuário e calcule seu IMC
 - IMC ENTRE 25 E 29.9 = SOBREPESO
 - IMC ENTRE 30 E 39.9 = OBESIDADE
 - IMC MAIOR QUE 40 = OBESIDADE GRAVE 
+
+OP_Logico06 - Em um estadio , crie um algoritimo que vai determinar onde o torcedor 
+vai sentar: VIP , CAMORTE e PISTA.
+de acordo com os dados abaixo:
+ - categoria - professor, estudante, pcd, nenhum
+ - faixa_salario - 0 -1000, 1001 - 2000, 3000
+ - idade - 0 a 12, 13 - 22, 23 - 60
+    
+ - VIP - pcd, salario > 3000 idade 60
+ - CAMAROTE - professor, estudante, salario até 2000
+ - PISTA - nenhum, 0 -1000, 13 a 22
+
+
