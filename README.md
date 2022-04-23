@@ -11,6 +11,10 @@ OP_Logico02 - informe o desconto de acordo com a idade.
  - idade >= 22 ---- 0% de desconto
 
 OP_Logico03 - Retorna o periodo do dia de acordo com a hora informada.
+ - hora entre 6 e 11 (imprimir bom dia)
+ - hora entre 12 e 17 (imprimir boa tarde)
+ - hora 18 até as 23 (imprimir boa noite)
+ - hora entre 23 e 5 (imprimir boa madrugada)
 
 OP_Logico04 - LER TRÊS NOTAS E FAZER A MÉDIA
   - SE A MÉDIA FOR MAIOR QUE 9 IMPRIMIR APROVADO COM LOUVOR
@@ -20,7 +24,6 @@ OP_Logico04 - LER TRÊS NOTAS E FAZER A MÉDIA
 
 OP_Logico05 - Faça um programa que leia a altura e o peso
 de um usuário e calcule seu IMC 
-
 - IMC = PESO / ALTURA * ALTURA 
 - IMC < 18.5 = MAGREZA
 - IMC ENTRE 18.5 E 24.9 = NORMAL
