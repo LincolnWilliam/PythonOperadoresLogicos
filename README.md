@@ -3,6 +3,9 @@
 OP_Logico01 - Elabore  um programa em python que lê três
 valores para os lados de um triângulo. O programa deve 
 determinar se o triângulo é Esquilatero, Isósceles, Escanelo., imprimindo na tela para o usuário:
+ - EQUILATERO = TODOS OS LADOS IGUAIS
+ - ISÓCELES = DOIS LADOS IGUAIS
+ - ESCALENO = TODOS OS LADOS DIFERENTES
 
 OP_Logico02 - informe o desconto de acordo com a idade. 
  - idade < 12 ---- 100% de desconto
