@@ -35,7 +35,7 @@ de um usuário e calcule seu IMC
 - IMC MAIOR QUE 40 = OBESIDADE GRAVE 
 
 OP_Logico06 - Em um estadio , crie um algoritimo que vai determinar em qual área o torcedor 
-vai ficar: VIP , CAMORTE e PISTA.
+vai ficar: VIP , CAMORTE ou PISTA.
 de acordo com os dados abaixo:
  - categoria - professor, estudante, pcd, nenhum
  - faixa_salario - 0 -1000, 1001 - 2000, 3000
