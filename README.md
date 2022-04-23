@@ -11,3 +11,19 @@ OP_Logico02 - informe o desconto de acordo com a idade.
  - idade >= 22 ---- 0% de desconto
 
 OP_Logico03 - Retorna o periodo do dia de acordo com a hora informada.
+
+OP_Logico04 - LER TRÊS NOTAS E FAZER A MÉDIA
+  - SE A MÉDIA FOR MAIOR QUE 9 IMPRIMIR APROVADO COM LOUVOR
+  - SE A MÉDIA FOR MAIOR QUE 7 E MENOR QUE 9 IMPRIMIR APROVADO
+  - SE A MÉDIA FOR ENTRE 4 E 7 IMPRIMIR RECUPERAÇÃO
+  - SE A MÉDIA FOR MENOR QUE 4 REPROVADO DIRETO
+
+OP_Logico05 - Faça um programa que leia a altura e o peso
+de um usuário e calcule seu IMC 
+
+- IMC = PESO / ALTURA * ALTURA 
+- IMC < 18.5 = MAGREZA
+- IMC ENTRE 18.5 E 24.9 = NORMAL
+- IMC ENTRE 25 E 29.9 = SOBREPESO
+- IMC ENTRE 30 E 39.9 = OBESIDADE
+- IMC MAIOR QUE 40 = OBESIDADE GRAVE 
